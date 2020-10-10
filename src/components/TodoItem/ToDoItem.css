@@ -1,0 +1,36 @@
+.todo {
+    background: #fff;
+    color: hotpink;
+    padding: 10px;
+    font-size: 12px;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+button {
+    color: hotpink;
+    background-color: peachpuff;
+    border-color: #6b469a;
+}
+
+button:hover{
+    background-color: #6b469a;
+}
+
+input {
+    color: hotpink;
+    background-color: peachpuff;
+    border-color: #6b469a;
+}
+
+
+
+h1 {
+    color: hotpink;
+}
